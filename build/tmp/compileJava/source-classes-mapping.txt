@@ -1,6 +1,11 @@
-com/minpaeng/springboot/web/dto/HelloResponseDto.java
- com.minpaeng.springboot.web.dto.HelloResponseDto
-com/minpaeng/springboot/Application.java
- com.minpaeng.springboot.Application
+com/minpaeng/springboot/domain/posts/Posts.java
+ com.minpaeng.springboot.domain.posts.Posts
+ com.minpaeng.springboot.domain.posts.Posts$PostsBuilder
 com/minpaeng/springboot/web/HelloController.java
  com.minpaeng.springboot.web.HelloController
+com/minpaeng/springboot/Application.java
+ com.minpaeng.springboot.Application
+com/minpaeng/springboot/domain/posts/PostsRepository.java
+ com.minpaeng.springboot.domain.posts.PostsRepository
+com/minpaeng/springboot/web/dto/HelloResponseDto.java
+ com.minpaeng.springboot.web.dto.HelloResponseDto
