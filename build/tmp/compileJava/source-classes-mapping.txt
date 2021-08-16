@@ -9,3 +9,10 @@ com/minpaeng/springboot/domain/posts/PostsRepository.java
  com.minpaeng.springboot.domain.posts.PostsRepository
 com/minpaeng/springboot/web/dto/HelloResponseDto.java
  com.minpaeng.springboot.web.dto.HelloResponseDto
+com/minpaeng/springboot/web/dto/PostsSaveRequestDto.java
+ com.minpaeng.springboot.web.dto.PostsSaveRequestDto
+ com.minpaeng.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/minpaeng/springboot/service/posts/PostsService.java
+ com.minpaeng.springboot.service.posts.PostsService
+com/minpaeng/springboot/web/PostsApiController.java
+ com.minpaeng.springboot.web.PostsApiController
