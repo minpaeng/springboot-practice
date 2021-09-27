@@ -3,6 +3,8 @@ com/minpaeng/springboot/domain/user/User.java
  com.minpaeng.springboot.domain.user.User$UserBuilder
 com/minpaeng/springboot/web/HelloController.java
  com.minpaeng.springboot.web.HelloController
+com/minpaeng/springboot/config/auth/LoginUser.java
+ com.minpaeng.springboot.config.auth.LoginUser
 com/minpaeng/springboot/web/dto/PostsUpdateRequestDto.java
  com.minpaeng.springboot.web.dto.PostsUpdateRequestDto
  com.minpaeng.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
@@ -26,20 +28,24 @@ com/minpaeng/springboot/domain/posts/Posts.java
  com.minpaeng.springboot.domain.posts.Posts$PostsBuilder
 com/minpaeng/springboot/service/posts/PostsService.java
  com.minpaeng.springboot.service.posts.PostsService
-com/minpaeng/springboot/domain/user/Role.java
- com.minpaeng.springboot.domain.user.Role
+com/minpaeng/springboot/config/auth/CustomOAuth2UserService.java
+ com.minpaeng.springboot.config.auth.CustomOAuth2UserService
 com/minpaeng/springboot/domain/BaseTimeEntity.java
  com.minpaeng.springboot.domain.BaseTimeEntity
 com/minpaeng/springboot/config/auth/dto/SessionUser.java
  com.minpaeng.springboot.config.auth.dto.SessionUser
-com/minpaeng/springboot/web/PostsApiController.java
- com.minpaeng.springboot.web.PostsApiController
-com/minpaeng/springboot/config/auth/dto/OAuthAttributes.java
- com.minpaeng.springboot.config.auth.dto.OAuthAttributes
- com.minpaeng.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
-com/minpaeng/springboot/config/auth/CustomOAuth2UserService.java
- com.minpaeng.springboot.config.auth.CustomOAuth2UserService
 com/minpaeng/springboot/web/IndexController.java
  com.minpaeng.springboot.web.IndexController
 com/minpaeng/springboot/config/auth/SecurityConfig.java
  com.minpaeng.springboot.config.auth.SecurityConfig
+com/minpaeng/springboot/config/auth/dto/OAuthAttributes.java
+ com.minpaeng.springboot.config.auth.dto.OAuthAttributes
+ com.minpaeng.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/minpaeng/springboot/domain/user/Role.java
+ com.minpaeng.springboot.domain.user.Role
+com/minpaeng/springboot/config/WebConfig.java
+ com.minpaeng.springboot.config.WebConfig
+com/minpaeng/springboot/config/auth/LoginUserArgumentResolver.java
+ com.minpaeng.springboot.config.auth.LoginUserArgumentResolver
+com/minpaeng/springboot/web/PostsApiController.java
+ com.minpaeng.springboot.web.PostsApiController
