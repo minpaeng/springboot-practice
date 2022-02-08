@@ -25,8 +25,9 @@ dependencies {
     //JPA
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 
-    //H2 database
+    //database
     implementation 'com.h2database:h2'
+    implementation("org.mariadb.jdbc:mariadb-java-client")
 
     //mustache
     implementation 'org.springframework.boot:spring-boot-starter-mustache'
@@ -43,4 +44,5 @@ dependencies {
     testAnnotationProcessor('org.projectlombok:lombok')
 
     testImplementation('org.springframework.boot:spring-boot-starter-test')
+    testImplementation("org.springframework.security:spring-security-test")
 }
