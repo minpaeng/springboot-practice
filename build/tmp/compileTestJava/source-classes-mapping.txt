@@ -1,10 +1,10 @@
 com/minpaeng/springboot/web/dto/HelloResponseDtoTest.java
  com.minpaeng.springboot.web.dto.HelloResponseDtoTest
-com/minpaeng/springboot/web/HelloControllerTest.java
- com.minpaeng.springboot.web.HelloControllerTest
+com/minpaeng/springboot/web/IndexControllerTest.java
+ com.minpaeng.springboot.web.IndexControllerTest
 com/minpaeng/springboot/web/PostsApiControllerTest.java
  com.minpaeng.springboot.web.PostsApiControllerTest
 com/minpaeng/springboot/domain/posts/PostRepositoryTest.java
  com.minpaeng.springboot.domain.posts.PostRepositoryTest
-com/minpaeng/springboot/web/IndexControllerTest.java
- com.minpaeng.springboot.web.IndexControllerTest
+com/minpaeng/springboot/web/HelloControllerTest.java
+ com.minpaeng.springboot.web.HelloControllerTest
