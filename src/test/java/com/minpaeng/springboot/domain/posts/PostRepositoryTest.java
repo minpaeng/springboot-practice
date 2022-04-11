@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
-@ExtendWith(SpringExtension.class)
+//@ExtendWith(SpringExtension.class)            //@SpringBootTest에 이미 포함돼있음
 @SpringBootTest
 public class PostRepositoryTest {
 

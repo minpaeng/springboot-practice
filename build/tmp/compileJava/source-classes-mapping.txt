@@ -47,5 +47,7 @@ com/minpaeng/springboot/config/WebConfig.java
  com.minpaeng.springboot.config.WebConfig
 com/minpaeng/springboot/config/auth/LoginUserArgumentResolver.java
  com.minpaeng.springboot.config.auth.LoginUserArgumentResolver
+com/minpaeng/springboot/config/JpaConfig.java
+ com.minpaeng.springboot.config.JpaConfig
 com/minpaeng/springboot/Application.java
  com.minpaeng.springboot.Application
